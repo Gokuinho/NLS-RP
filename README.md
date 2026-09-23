@@ -5,9 +5,9 @@ Site statique (GitHub Pages) exigé par le portail développeur Discord pour l�
 
 | Page | URL publique | Champ du portail Discord |
 |---|---|---|
-| Conditions d’utilisation | https://gokuinho.github.io/nls-rp-legal/conditions/ | General Information → Terms of Service URL |
-| Politique de confidentialité | https://gokuinho.github.io/nls-rp-legal/confidentialite/ | General Information → Privacy Policy URL |
-| Installation | https://gokuinho.github.io/nls-rp-legal/installer/ | Installation → Install Link (Custom URL) |
+| Conditions d’utilisation | https://gokuinho.github.io/NLS-RP/conditions/ | General Information → Terms of Service URL |
+| Politique de confidentialité | https://gokuinho.github.io/NLS-RP/confidentialite/ | General Information → Privacy Policy URL |
+| Installation | https://gokuinho.github.io/NLS-RP/installer/ | Installation → Install Link (Custom URL) |
 
 ## Lien d’installation
 

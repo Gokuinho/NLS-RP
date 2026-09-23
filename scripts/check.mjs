@@ -6,7 +6,7 @@ import { join, dirname, relative, resolve, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const BASE_PATH = '/nls-rp-legal/'; // chemin du site GitHub Pages
+const BASE_PATH = '/NLS-RP/'; // chemin du site GitHub Pages
 export const CLIENT_ID = '1545186081228726292';
 
 // Permissions attendues sur le lien d'installation (voir README).
