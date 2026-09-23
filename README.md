@@ -52,7 +52,7 @@ puis annoncer le changement sur le Discord.
 
 ## GitBook (règlement du serveur)
 
-Le dossier `gitbook/` contient le règlement publié sur https://newls-rp.gitbook.io/nls-rp,
+Le dossier `gitbook/` contient le règlement publié sur https://nls-rp.gitbook.io/reglement,
 synchronisé par **GitBook Git Sync** (fichier `.gitbook.yaml`, racine `./gitbook/`).
 
 * `gitbook/SUMMARY.md` est la table des matières : toute nouvelle page doit y figurer.
