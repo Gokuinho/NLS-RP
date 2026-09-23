@@ -35,5 +35,5 @@ Les liens vers les salons ci-dessous ne s’ouvrent que si vous êtes déjà mem
 
 ## Ce GitBook
 
-* Adresse : [nls-rp.gitbook.io/reglement](https://nls-rp.gitbook.io/reglement)
+* Adresse : [nlsrp.gitbook.io/reglement](https://nlsrp.gitbook.io/reglement)
 * Chaque modification est datée dans le [journal des modifications](../changelog.md).

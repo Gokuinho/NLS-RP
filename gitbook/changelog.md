@@ -12,7 +12,7 @@ Refonte complète du règlement.
 * **Charte du staff** publiée.
 * Ajout des pages Tickets, Créateurs de contenu, Remboursements, Coma et mort RP, Zones safe, Limites du RP, FAQ et tutoriels.
 * Anti-spam : quarantaine de 7 jours décidée par la Direction.
-* Nouvelle adresse du règlement : nls-rp.gitbook.io/reglement.
+* Nouvelle adresse du règlement : nlsrp.gitbook.io/reglement.
 * Nouvelle page Liens utiles, boutons et liens directs vers les Discord et les salons.
 * Ajouts : modificateur de voix interdit, absence (AFK), armes prêtées, vol de véhicule, téléphone et réseaux sociaux en jeu.
 * Charte du staff : les lots de concours officiels sont la seule exception, avec les remboursements, aux dons du staff.
