@@ -2,6 +2,12 @@
 
 Chaque modification du règlement est datée ici et annoncée dans le salon des annonces du Discord principal.
 
+## 23 septembre 2026 — Règlement simplifié
+
+* Le règlement passe de 36 à 16 pages, en 4 rubriques : Global, Légal, Illégal, Ressources.
+* Aucune règle supprimée : elles sont regroupées et raccourcies.
+* La page Boutique est intégrée au Règlement HRP.
+
 ## 23 septembre 2026 — Nouveau GitBook
 
 Refonte complète du règlement.

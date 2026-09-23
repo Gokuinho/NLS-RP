@@ -17,7 +17,7 @@ function book(files) {
 test('le GitBook actuel passe toutes les vérifications', () => {
   const { files, errors } = run();
   assert.deepEqual(errors, []);
-  assert.ok(files.length >= 30);
+  assert.ok(files.length >= 15);
 });
 
 test('un lien cassé est détecté', () => {

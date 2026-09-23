@@ -1,32 +1,53 @@
-# Police et shérif (LSPD / BCSO)
+---
+icon: car
+---
 
-Les forces de l’ordre font respecter la loi **en RP**. Elles ne sont pas là pour gagner, mais pour donner une vraie réponse aux actions des autres joueurs.
+# Police et shérif
+
+Le **LSPD** intervient à Los Santos, le **BCSO** dans le comté de Blaine ; les agents construisent les scènes et appliquent la loi RP.
+
+## Règles communes aux services publics
+
+Ces règles concernent le **Los Santos Police Department**, le **Blaine County Sheriff’s Office** et le **Los Santos Medical Center (LSMC)**.
+
+* Aucune activité illégale, pour vous ou un proche, sans dérogation exceptionnelle par ticket : ancienneté, grade et objectif RP clair et encadré.
+* Sans dérogation, une activité illégale expose au renvoi et à la prison à perpétuité RP.
+* Consultez fichiers, casiers, dossiers médicaux et enquêtes uniquement pour une mission ou un mandat ; leur divulgation est une faute grave.
+* Hors service, rangez votre équipement et redevenez un citoyen ; aucun accès professionnel pour la vie privée.
+
+{% hint style="danger" %}
+Voler, revendre ou prêter une arme, un véhicule, un uniforme ou tout équipement de service entraîne un **bannissement définitif**.
+{% endhint %}
+
+## Recrutement et suivi
+
+* Recrutement en jeu selon chaque service : candidature, entretien et formation.
+* Pour postuler ou contacter un service, utilisez un ticket **Service public** ou le salon [services-publics](https://discord.com/channels/1545172746873348199/1545213169402912902).
+* Une démission se joue auprès de la hiérarchie ; une longue inactivité sans prévenir peut entraîner un retrait du service.
+* Les directions échangent avec leur référent par ticket permanent sur **NLS | LÉGAL**.
 
 ## Comportement
 
-* L’agent respecte les procédures et la hiérarchie de son service.
-* Il laisse une chance à la scène : une arrestation se joue, un interrogatoire aussi. Pas de menottes à distance ni de fouille éclair.
-* L’usage de la force est proportionné. Tirer n’est justifié que face à une menace réelle.
-* L’agent porte une **caméra-piéton** en service. Les images peuvent servir en justice RP et en ticket.
+* Respectez les procédures et la hiérarchie de votre service.
+* Jouez les arrestations et interrogatoires en laissant l’autre réagir : aucune menotte à distance ni fouille éclair.
+* La force reste proportionnée ; tirer exige une menace réelle.
+* Portez une caméra-piéton en service ; ses images peuvent servir en justice RP et en ticket.
 
 ## Poursuites
 
-* Pendant une poursuite longue, les unités peuvent **percuter un véhicule à vitesse modérée** ou réaliser un *PIT* pour l’immobiliser.
-* Percuter à pleine vitesse ou viser une moto ou un piéton avec un véhicule est interdit (VDM).
-* Les hélicoptères de police suivent, ils ne percutent pas.
+* Pendant une poursuite longue, une percussion à vitesse modérée ou un *PIT* peut immobiliser un véhicule.
+* Aucune percussion à pleine vitesse, contre une moto ou contre un piéton (*VDM*).
+* Les hélicoptères suivent ; ils ne percutent pas.
 
-## Fouilles, saisies et droits
+## Fouilles et droits
 
-* Une fouille se fait sur **motif** : flagrant délit, suspicion fondée, mandat.
-* Les objets saisis sont consignés et remis au service, jamais gardés par l’agent.
-* Le suspect a le droit de garder le silence et de demander un avocat. Ces droits se jouent.
-
-## Suivi et localisation
-
-* Aucune balise GPS ni traceur posé sur un véhicule ou une personne, **ni par la police, ni par un groupe**, sauf outil prévu par un script officiel et dans le cadre d’un mandat.
+* Toute fouille exige un motif : flagrant délit, suspicion fondée ou mandat.
+* Consignez les saisies et remettez-les au service ; ne les gardez pas.
+* Respectez le droit au silence et la demande d’un avocat.
+* Aucun GPS ou traceur sur un véhicule ou une personne, pour la police comme pour les groupes, sauf outil d’un script officiel utilisé sous mandat.
 
 ## Interdits
 
-* Transmettre à un groupe une information de service (patrouilles, enquêtes, identités).
-* Utiliser son grade ou son véhicule de service pour sa vie privée.
+* Transmettre à un groupe des informations de service : patrouilles, enquêtes ou identités.
+* Utiliser votre grade ou véhicule de service pour votre vie privée.
 * Laisser un détenu s’échapper pour arranger un ami.

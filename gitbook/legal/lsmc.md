@@ -1,26 +1,31 @@
-# Los Santos Medical Center (LSMC)
+---
+icon: truck-medical
+---
 
-Le LSMC soigne tout le monde, sans distinction : civil, policier, membre d’un groupe.
+# LSMC
 
-## Autorité
+Le **Los Santos Medical Center (LSMC)** soigne tout le monde, sans distinction entre civils, policiers et membres de groupes.
 
-* À l’hôpital, **le médecin a autorité** sur les soins. Policiers comme patients respectent ses consignes.
-* L’hôpital est une [zone safe](../roleplay/zones-safe.md). Aucune scène hostile n’y commence.
-* Le médecin peut refuser de laisser partir un patient dont l’état ne le permet pas, et décider d’un **coma RP** prolongé si les blessures le justifient.
+## Soins et autorité
+
+* À l’hôpital, le médecin décide des soins ; patients et policiers respectent ses consignes.
+* L’hôpital est une [zone safe](../global/interdictions.md) : aucune scène hostile n’y commence.
+* Un médecin peut empêcher un départ si l’état du patient l’exige et prolonger le coma selon les blessures.
 
 ## Neutralité
 
-* Le médecin soigne, il ne juge pas. Il ne choisit pas qui il sauve selon son camp.
-* Il ne transmet pas d’informations médicales à la police sans réquisition, ni à un groupe.
-* Il n’aide pas un groupe à éviter la police (faux certificats, soins cachés) sans dérogation validée.
+* Soignez sans choisir les patients selon leur camp.
+* Aucune information médicale à la police sans réquisition, ni à un groupe.
+* Aucun faux certificat ou soin caché pour aider un groupe à éviter la police sans dérogation validée.
+* Les [règles communes aux services publics](police.md) s’appliquent également au LSMC.
 
 ## Interventions
 
-* Sur une scène dangereuse (fusillade en cours), les secours attendent que la police sécurise la zone.
-* Un médecin en intervention **ne peut pas être pris pour cible**, dévalisé ou pris en otage.
-* Les blessures se jouent : un patient qui n’en tient pas compte fait du *NoPain*.
+* Sur une scène dangereuse, attendez que la police sécurise les lieux.
+* Un médecin en intervention ne peut être ciblé, dévalisé ou pris en otage.
 
 ## Patients
 
-* Mentir au médecin **en RP** fait partie du jeu. Mentir **hors-RP** sur ce qui est arrivé pour obtenir un meilleur soin est sanctionné.
-* Le patient réanimé suit les règles du [coma](../roleplay/coma-mort-rp.md).
+* Jouez vos blessures ; les ignorer constitue du *NoPain*.
+* Mentir au médecin en RP est permis ; mentir hors-RP pour obtenir de meilleurs soins est sanctionné.
+* Après réanimation, respectez les [règles du coma](../global/interdictions.md).

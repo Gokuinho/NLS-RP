@@ -1,14 +1,14 @@
+---
+icon: briefcase
+---
+
 # Entreprises
 
-Les entreprises font vivre l’économie et le quotidien de la ville. Chacune a sa fiche sur le [forum des entreprises](https://discord.com/channels/1545172746873348199/1546274653067026575) du Discord principal et sur le Discord **NLS | LÉGAL**.
+Chaque entreprise possède une fiche sur le forum du Discord principal et sur **NLS | LÉGAL**, accessible avec le rôle **Citoyen**.
 
 <a href="https://discord.gg/QXNZtE6Gzz" class="button primary">Rejoindre NLS | LÉGAL</a> <a href="https://discord.com/channels/1545172746873348199/1546274653067026575" class="button secondary">Forum des entreprises</a>
 
-{% hint style="info" %}
-L’accès à NLS | LÉGAL est réservé aux joueurs qui ont accepté le règlement sur le Discord principal (rôle Citoyen).
-{% endhint %}
-
-## L’annuaire
+## Annuaire
 
 | Secteur | Enseignes |
 |---|---|
@@ -19,38 +19,42 @@ L’accès à NLS | LÉGAL est réservé aux joueurs qui ont accepté le règlem
 | Services | Cabinet d’Avocats · Dynasty 8 · Weazel News |
 | Production | Green Valley · Marlowe Vineyard |
 
-## Postuler, reprendre, contacter
+## Rejoindre ou reprendre
 
-Depuis la fiche d’une enseigne ou en ouvrant un ticket **Entreprise**, vous pouvez :
+* Depuis la fiche ou un ticket **Entreprise**, vous pouvez postuler, contacter une enseigne ou proposer une reprise.
+* Présentez votre activité, vos horaires et vos idées de scènes ; les disponibilités sont annoncées sur Discord et la Direction choisit le repreneur.
+* Le recrutement passe par un entretien RP ; un départ se joue avec le patron.
+* Aucun cumul d’emplois chez des entreprises concurrentes.
 
-* **postuler** dans une entreprise qui recrute ;
-* **reprendre** une entreprise disponible, avec un projet : activité, horaires visés, idées de scènes ;
-* **contacter** une entreprise.
+## Direction
 
-Une entreprise disponible à la reprise est annoncée sur le Discord ; les candidats présentent leur projet, la Direction choisit.
+* Un joueur dirige une seule entreprise et doit rester actif.
+* Une longue inactivité inexpliquée peut entraîner le retrait et la remise à la reprise.
+* Gérez employés, salaires et stocks en jeu ; tenez votre fiche à jour.
+* Échangez avec votre référent par le ticket permanent de l’entreprise.
+* Vous répondez de votre entreprise, y compris des abus d’accès de vos employés.
 
-## Le patron
+## Annonces et interdits
 
-* Un joueur ne dirige **qu’une seule entreprise**.
-* Le patron doit être **actif**. Une entreprise sans activité pendant une longue période, sans explication, peut être retirée et remise à la reprise.
-* Il gère ses employés, ses salaires et ses stocks en jeu, et tient sa fiche à jour.
-* Il échange avec son référent **via le ticket permanent** de son entreprise.
-* Il répond de son entreprise : un employé qui abuse de ses accès engage aussi le patron.
+* Utilisez le canal publicitaire prévu en jeu et, sur Discord, uniquement [annonces-entreprises](https://discord.com/channels/1545172746873348199/1549559025836883988).
+* Annonces crédibles, sans spam, fausse promotion ni attaque contre un concurrent.
+* Aucun blanchiment, stockage ou transport pour l’illégal sans validation par ticket.
+* Aucune vente ou cession d’entreprise sans passer par la Direction.
+* Aucun braquage ni otage dans des locaux d’entreprise.
+* Aucune arnaque pendant une vente officielle.
 
-## Employés
+## Immobilier et stockage
 
-* Le **recrutement se fait en jeu**, par un entretien RP.
-* Un employé qui quitte l’entreprise le fait en RP, auprès de son patron.
-* Pas de cumul d’emplois dans des entreprises concurrentes.
+* Une propriété doit correspondre au personnage et au lieu : aucune entrée dans un mur, sur un toit inaccessible ou au milieu d’une route.
+* Un agent immobilier place la propriété en jeu et vérifie l’emplacement.
+* Aucun échange de propriété contre de l’argent réel.
+* Les garages personnels sont des [zones safe](../global/interdictions.md).
+* Un coffre sert au stockage, jamais à dissimuler des objets pour échapper à une scène en cours.
 
-## Annonces
+## Véhicules
 
-* Les annonces publicitaires passent par le canal prévu en jeu et, sur Discord, uniquement dans le salon [annonces-entreprises](https://discord.com/channels/1545172746873348199/1549559025836883988).
-* Une annonce reste crédible : pas de spam, pas de fausse promotion, pas d’attaque contre un concurrent.
-
-## Interdits
-
-* Utiliser l’entreprise pour blanchir, stocker ou transporter pour l’illégal sans validation par ticket.
-* Vendre ou céder une entreprise à un autre joueur sans passer par la Direction.
-* Prendre des otages ou organiser un braquage dans des locaux d’entreprise.
-* Arnaquer un client pendant une vente officielle (voir [Loot et arnaques](../illegal/loot-arnaques.md)).
+* Aucun véhicule d’organisation extravagant ou hors univers ; **rmodmi8lb**, **ocnetrongt**, **Quadra** et **Hellbeast** sont interdits aux groupes.
+* Votre véhicule personnel doit correspondre au personnage et à ses revenus RP.
+* Jouez les vols : repérage, effraction et fuite ; aucun vol en un clic, sans scène, sous les yeux du propriétaire.
+* Aucun vol en zone safe ni de véhicule de service public.
+* Un véhicule volé ne se revend pas contre de l’argent réel et ne s’échange pas hors-RP.
