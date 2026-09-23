@@ -1,6 +1,12 @@
 # Entreprises
 
-Les entreprises font vivre l’économie et le quotidien de la ville. Chacune a sa fiche sur le Discord **NLS | LÉGAL**.
+Les entreprises font vivre l’économie et le quotidien de la ville. Chacune a sa fiche sur le [forum des entreprises](https://discord.com/channels/1545172746873348199/1546274653067026575) du Discord principal et sur le Discord **NLS | LÉGAL**.
+
+<a href="https://discord.gg/QXNZtE6Gzz" class="button primary">Rejoindre NLS | LÉGAL</a> <a href="https://discord.com/channels/1545172746873348199/1546274653067026575" class="button secondary">Forum des entreprises</a>
+
+{% hint style="info" %}
+L’accès à NLS | LÉGAL est réservé aux joueurs qui ont accepté le règlement sur le Discord principal (rôle Citoyen).
+{% endhint %}
 
 ## L’annuaire
 
@@ -39,7 +45,7 @@ Une entreprise disponible à la reprise est annoncée sur le Discord ; les candi
 
 ## Annonces
 
-* Les annonces publicitaires passent par le canal prévu en jeu et, sur Discord, uniquement dans le salon prévu.
+* Les annonces publicitaires passent par le canal prévu en jeu et, sur Discord, uniquement dans le salon [annonces-entreprises](https://discord.com/channels/1545172746873348199/1549559025836883988).
 * Une annonce reste crédible : pas de spam, pas de fausse promotion, pas d’attaque contre un concurrent.
 
 ## Interdits

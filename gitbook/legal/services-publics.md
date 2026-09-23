@@ -22,7 +22,7 @@ Chaque service a sa page : [Police et shérif](police.md) · [LSMC](lsmc.md). La
 
 ## Recrutement et démission
 
-* Le recrutement se fait **en jeu**, selon la procédure de chaque service (candidature, entretien, formation). Pour postuler ou contacter un service, ouvrez un ticket **Service public**.
+* Le recrutement se fait **en jeu**, selon la procédure de chaque service (candidature, entretien, formation). Pour postuler ou contacter un service, ouvrez un ticket **Service public** depuis [ouvrir-un-ticket](https://discord.com/channels/1545172746873348199/1545213156534517830), ou passez par le salon [services-publics](https://discord.com/channels/1545172746873348199/1545213169402912902).
 * Une démission se joue en RP, auprès de sa hiérarchie.
 * Un agent longtemps inactif sans prévenir peut être retiré de son service.
 

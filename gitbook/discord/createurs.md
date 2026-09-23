@@ -6,7 +6,9 @@ Vous pouvez streamer et publier des vidéos sur New Los Santos. Le programme cr�
 
 * **Ce qu’il apporte :** visibilité, salons dédiés, contact direct avec la Direction, rôle **Streamer**.
 * **Conditions :** une activité régulière, un contenu respectueux du règlement, une communauté saine. Aucun seuil d’audience rigide : la régularité compte davantage.
-* **Candidater :** ouvrez un ticket **Créateur de contenu** depuis *ouvrir-un-ticket*. Chaque dossier reçoit une réponse.
+* **Candidater :** ouvrez un ticket **Créateur de contenu** depuis [ouvrir-un-ticket](https://discord.com/channels/1545172746873348199/1545213156534517830). Chaque dossier reçoit une réponse.
+
+Les lives des créateurs sont partagés dans le salon [lives](https://discord.com/channels/1545172746873348199/1546249824058212432).
 
 ## Règles pour les créateurs
 

@@ -6,6 +6,7 @@
 //  - chaque page .md est dans SUMMARY.md, et chaque entrée de SUMMARY.md existe ;
 //  - chaque lien relatif pointe vers un fichier existant ;
 //  - chaque {% hint %} est fermé et utilise un style reconnu par GitBook ;
+//  - chaque lien Discord (invitation ou salon) figure dans scripts/discord-links.json ;
 //  - le GitBook est au vouvoiement (décision de la Direction du 10/09/2026) :
 //    aucun « tu / ton / ta / tes / toi » hors citation « … ».
 import { readFileSync, readdirSync, statSync, existsSync } from 'node:fs';
@@ -32,7 +33,28 @@ const rel = (root, p) => relative(root, p).split(sep).join('/');
 /** Liens markdown [texte](cible) hors blocs de code. */
 export function links(md) {
   const clean = md.replace(/```[\s\S]*?```/g, '').replace(/`[^`]*`/g, '');
-  return [...clean.matchAll(/\]\(([^)\s]+)\)/g)].map((m) => m[1]);
+  return [
+    ...[...clean.matchAll(/\]\(([^)\s]+)\)/g)].map((m) => m[1]),
+    ...[...clean.matchAll(/<a\s[^>]*href="([^"]+)"/g)].map((m) => m[1]),
+  ];
+}
+
+export const DISCORD = JSON.parse(readFileSync(join(REPO, 'scripts', 'discord-links.json'), 'utf8'));
+
+export function checkDiscord(file, root = ROOT, known = DISCORD) {
+  const errors = [];
+  const invites = new Set(Object.values(known.invitations));
+  const salons = new Set(Object.values(known.salons));
+  for (const url of links(readFileSync(file, 'utf8'))) {
+    if (/^https:\/\/discord\.gg\//.test(url) && !invites.has(url)) errors.push(`${rel(root, file)} : invitation Discord inconnue ${url}`);
+    const m = url.match(/^https:\/\/discord\.com\/channels\/(\d+)\/(\d+)$/);
+    if (/^https:\/\/discord\.com\/channels\//.test(url)) {
+      if (!m) errors.push(`${rel(root, file)} : lien de salon mal formé ${url}`);
+      else if (m[1] !== known.guild) errors.push(`${rel(root, file)} : lien vers un autre serveur ${url}`);
+      else if (!salons.has(m[2])) errors.push(`${rel(root, file)} : salon inconnu ${url}`);
+    }
+  }
+  return errors;
 }
 
 export function checkLinks(file, root = ROOT) {
@@ -101,7 +123,7 @@ export function run(root = ROOT) {
   const files = mdFiles(root);
   const errors = [
     ...checkSummary(root),
-    ...files.flatMap((f) => [...checkLinks(f, root), ...checkHints(f, root), ...checkVouvoiement(f, root)]),
+    ...files.flatMap((f) => [...checkLinks(f, root), ...checkHints(f, root), ...checkVouvoiement(f, root), ...checkDiscord(f, root)]),
   ];
   return { files, errors };
 }
@@ -112,5 +134,5 @@ if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.ur
     console.error(errors.map((e) => `✗ ${e}`).join('\n'));
     process.exit(1);
   }
-  console.log(`✓ GitBook : ${files.length} pages vérifiées (sommaire, liens, hints, vouvoiement).`);
+  console.log(`✓ GitBook : ${files.length} pages vérifiées (sommaire, liens, liens Discord, hints, vouvoiement).`);
 }

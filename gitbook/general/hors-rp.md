@@ -24,6 +24,12 @@ Vous découvrez un bug ? Signalez-le par ticket **Bug**. Celui qui signale un bu
 * La voix en jeu est le seul moyen de communiquer en RP. **Un vocal externe (Discord ou autre) pour échanger des informations RP est du métagaming** (*double vocal*), même entre membres d’un même groupe.
 * Regarder le live d’un autre joueur pour le localiser ou connaître ses plans : *stream-hack*, sanctionné comme du métagaming.
 * Micro correct : pas de bruit de fond permanent, de musique ou de soundboard en jeu.
+* **Modificateur de voix interdit.** Votre personnage parle avec votre voix ; jouer un accent ou une intonation est permis, un logiciel qui transforme la voix ne l’est pas.
+
+## Absence (AFK)
+
+* Ne restez pas absent de votre clavier plus de quelques minutes dans un lieu public : votre personnage immobile gêne les scènes et peut être pris pour cible sans pouvoir répondre. Mettez-vous à l’abri (chez vous, dans un garage) ou déconnectez-vous.
+* Se mettre AFK pour échapper à une scène en cours est traité comme un *combat log*.
 
 ## Argent réel
 

@@ -8,6 +8,11 @@
 * On ne garde **ni la carte d’identité ni le téléphone** d’une victime : ce sont des objets qu’elle ne peut pas récupérer facilement, et cela bloque son RP.
 * Fouiller et vider quelqu’un sans scène est du *Freeloot*, sanctionné.
 
+## Armes prêtées
+
+* Prêter une arme à quelqu’un se fait à vos risques : si elle est perdue, saisie ou utilisée dans une scène, **aucun remboursement** n’est possible.
+* Prêter une arme à un joueur d’un autre groupe pour contourner les quotas de votre groupe est interdit.
+
 ## Arnaques
 
 * L’arnaque fait partie du RP : fausse marchandise, faux contrat, confiance trahie.

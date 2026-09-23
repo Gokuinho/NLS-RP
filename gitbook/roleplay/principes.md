@@ -42,6 +42,12 @@ Les forces de l’ordre et les secours incarnent des personnages, pas des distri
 
 Chacun est là pour s’amuser. Ne monopolisez pas les scènes, ne ridiculisez pas ceux qui débutent, n’attirez pas toute la ville sur une scène que vous n’avez pas préparée (*Mass RP*).
 
+## Téléphone et réseaux sociaux en jeu
+
+* Le téléphone, les messageries et les réseaux sociaux du jeu sont du **RP** : ce qui y est écrit l’est par votre personnage.
+* Pas de message hors-RP, d’insulte envers le joueur, ni de lien vers un autre serveur.
+* **Aucune vente illégale sur les réseaux publics du jeu** (armes, drogue) : l’illégal passe par des contacts, pas par une annonce visible de toute la ville.
+
 ## Scènes sensibles
 
 Torture, enlèvement, violence marquée : ces scènes **demandent l’accord des joueurs concernés avant de commencer**. Certaines choses ne se jouent jamais, même avec accord : voir [Limites du RP](limites.md).

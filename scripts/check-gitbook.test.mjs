@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { writeFileSync, mkdtempSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 import { tmpdir } from 'node:os';
-import { run, checkLinks, checkHints, checkVouvoiement, checkSummary } from './check-gitbook.mjs';
+import { run, checkLinks, checkHints, checkVouvoiement, checkSummary, checkDiscord } from './check-gitbook.mjs';
 
 function book(files) {
   const root = mkdtempSync(join(tmpdir(), 'gb-'));
@@ -47,4 +47,20 @@ test('le sommaire détecte pages orphelines et entrées manquantes', () => {
   const errors = checkSummary(root);
   assert.ok(errors.some((e) => e.includes('b.md : page absente')));
   assert.ok(errors.some((e) => e.includes('page introuvable c.md')));
+});
+
+test('les liens Discord inconnus ou vers un autre serveur sont refusés', () => {
+  const known = { guild: '1', invitations: { p: 'https://discord.gg/ok' }, salons: { a: '10' } };
+  const root = book({
+    'ok.md': '[x](https://discord.gg/ok) [y](https://discord.com/channels/1/10) <a href="https://discord.gg/ok" class="button primary">z</a>',
+    'bad.md': '[x](https://discord.gg/pirate) [y](https://discord.com/channels/2/10) <a href="https://discord.com/channels/1/99" class="button">z</a>',
+  });
+  assert.deepEqual(checkDiscord(join(root, 'ok.md'), root, known), []);
+  const errors = checkDiscord(join(root, 'bad.md'), root, known);
+  assert.equal(errors.length, 3);
+});
+
+test('les liens des boutons HTML sont vérifiés comme les autres', () => {
+  const root = book({ 'a.md': '<a href="b.md" class="button primary">x</a>' });
+  assert.ok(checkLinks(join(root, 'a.md'), root).some((e) => e.includes('lien cassé')));
 });

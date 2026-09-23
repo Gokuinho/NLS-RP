@@ -2,6 +2,7 @@
 
 * [Bienvenue sur New Los Santos](README.md)
 * [Premiers pas](bienvenue/premiers-pas.md)
+* [Liens utiles](bienvenue/liens.md)
 * [Nos engagements](bienvenue/engagements.md)
 * [FAQ](faq.md)
 

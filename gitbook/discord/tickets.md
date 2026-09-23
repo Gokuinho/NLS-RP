@@ -4,7 +4,7 @@ Le ticket est **le seul moyen officiel** de contacter le staff. Il laisse une tr
 
 ## Les catégories
 
-Depuis le salon **ouvrir-un-ticket** du Discord principal, choisissez la catégorie qui correspond à votre demande :
+Depuis le salon [**ouvrir-un-ticket**](https://discord.com/channels/1545172746873348199/1545213156534517830) du Discord principal, choisissez la catégorie qui correspond à votre demande :
 
 | Catégorie | Pour… |
 |---|---|
@@ -21,6 +21,8 @@ Depuis le salon **ouvrir-un-ticket** du Discord principal, choisissez la catégo
 | **Autre** | Tout le reste. |
 
 Remplissez le formulaire **complètement** : un ticket vide ou « salut » est fermé.
+
+<a href="https://discord.com/channels/1545172746873348199/1545213156534517830" class="button primary">Ouvrir un ticket</a>
 
 ## Bonnes pratiques
 

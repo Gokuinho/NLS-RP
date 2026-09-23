@@ -15,3 +15,9 @@
 
 * Aucun véhicule d’organisation extravagant ou hors univers n’est autorisé en ville. Sont notamment interdits pour les groupes : `rmodmi8lb`, `ocnetrongt`, **Quadra**, **Hellbeast**.
 * Un véhicule personnel reste crédible avec le personnage et ses revenus RP.
+
+## Vol de véhicule
+
+* Un vol de véhicule se **joue** : repérage, effraction, fuite. Pas de vol en un clic sur un véhicule garé au hasard sous les yeux de son propriétaire sans scène.
+* Pas de vol dans une [zone safe](../roleplay/zones-safe.md), ni d’un véhicule de service public.
+* Un véhicule volé ne se revend pas contre de l’argent réel et ne s’échange pas hors RP.

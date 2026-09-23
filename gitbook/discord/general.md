@@ -14,7 +14,7 @@ Ces règles s’appliquent sur les trois Discord de New Los Santos (principal, L
 * Aucun contenu choquant, pornographique, gore ou illégal, y compris en avatar, bannière, lien, spoiler ou message privé.
 * **La publicité pour un autre serveur est interdite**, en salon public comme en message privé à nos membres.
 * Liens raccourcis, faux cadeaux Nitro, liens d’hameçonnage : suppression immédiate et bannissement.
-* Chaque salon a un usage précis, indiqué dans sa description : publiez au bon endroit. Le salon des suggestions sert aux idées, pas aux plaintes.
+* Chaque salon a un usage précis, indiqué dans sa description : publiez au bon endroit. Le [salon des suggestions](https://discord.com/channels/1545172746873348199/1545213180882456636) sert aux idées, pas aux plaintes.
 
 ## Spam et flood
 

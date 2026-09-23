@@ -1,0 +1,24 @@
+{
+  "_note": "Liens Discord utilisés dans le GitBook. Identifiants relevés dans data/deployment-state.json du principal (22/09/2026). Si un salon est recréé, mettre à jour ici : check-gitbook refuse tout lien inconnu.",
+  "invitations": {
+    "principal": "https://discord.gg/JcSVkPKFrY",
+    "legal": "https://discord.gg/QXNZtE6Gzz"
+  },
+  "guild": "1545172746873348199",
+  "salons": {
+    "bienvenue": "1545213149429371011",
+    "reglement": "1545213150188806197",
+    "annonces": "1545213151555878912",
+    "ouvrir-un-ticket": "1545213156534517830",
+    "statut-serveur": "1545236951609905192",
+    "services-publics": "1545213169402912902",
+    "changelog": "1545213174134083596",
+    "suggestions": "1545213180882456636",
+    "recrutement-staff": "1551524353605238796",
+    "lives": "1546249824058212432",
+    "forum-entreprises": "1546274653067026575",
+    "annonces-entreprises": "1549559025836883988",
+    "rejoindre-illegal": "1549559027527323659",
+    "club-annonces": "1545408786087419984"
+  }
+}

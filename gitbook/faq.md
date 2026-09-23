@@ -2,7 +2,7 @@
 
 ## Comment rejoindre le serveur ?
 
-Les modalités d’accès et le lien de connexion sont publiés dans le salon des annonces du Discord principal. C’est la seule source qui fasse foi. Voir [Premiers pas](bienvenue/premiers-pas.md).
+Les modalités d’accès et le lien de connexion sont publiés dans le [salon des annonces](https://discord.com/channels/1545172746873348199/1545213151555878912) du Discord principal. C’est la seule source qui fasse foi. Voir [Premiers pas](bienvenue/premiers-pas.md).
 
 ## Faut-il une whitelist ?
 
@@ -26,7 +26,7 @@ Ouvrez un ticket **Contestation de sanction**. Ne discutez jamais une sanction e
 
 ## Comment devenir membre du staff ?
 
-Les recrutements sont annoncés dans le salon des annonces. Les candidatures spontanées passent par un ticket **Candidature**.
+Les recrutements sont annoncés dans le [salon des annonces](https://discord.com/channels/1545172746873348199/1545213151555878912) et dans [recrutement-staff](https://discord.com/channels/1545172746873348199/1551524353605238796). Les candidatures spontanées passent par un ticket **Candidature**.
 
 ## Puis-je streamer le serveur ?
 
@@ -43,6 +43,10 @@ Suivez [Vider le cache FiveM](tutoriels/cache-fivem.md). Si le problème persist
 ## Comment obtenir le rôle Tag NLS ?
 
 Ajoutez `[NLS]` à votre pseudo sur le Discord principal : le rôle est attribué automatiquement. Voir [Premiers pas](bienvenue/premiers-pas.md).
+
+## Où trouver tous les liens ?
+
+Sur la page [Liens utiles](bienvenue/liens.md).
 
 ## Une règle n’est pas claire.
 

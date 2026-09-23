@@ -4,7 +4,7 @@ Toute sanction peut être contestée. Une contestation n’est ni un affront ni 
 
 ## Comment faire
 
-1. Ouvrez un ticket **Contestation de sanction** depuis *ouvrir-un-ticket*.
+1. Ouvrez un ticket **Contestation de sanction** depuis [ouvrir-un-ticket](https://discord.com/channels/1545172746873348199/1545213156534517830).
 2. Indiquez la sanction reçue, sa date approximative et **pourquoi vous la contestez**.
 3. Joignez vos éléments : clip, captures, témoins.
 

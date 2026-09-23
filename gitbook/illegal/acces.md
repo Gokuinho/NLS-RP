@@ -4,6 +4,11 @@ L’illégal à New Los Santos est **encadré**. Chaque groupe est déclaré, su
 
 ## Le Discord NLS | ILLÉGAL
 
+L’invitation s’obtient depuis le salon [**rejoindre-illégal**](https://discord.com/channels/1545172746873348199/1549559027527323659) du Discord principal. Elle est réservée aux Citoyens.
+
+<a href="https://discord.com/channels/1545172746873348199/1549559027527323659" class="button primary">Demander l’accès à NLS | ILLÉGAL</a>
+
+
 * Chaque groupe déclaré y dispose d’une **fiche** et d’un **espace privé** pour ses dirigeants.
 * Le **leader** du groupe (et ses éventuels bras droits désignés) échangent avec le Référent Illégal via un **ticket permanent**. C’est par là que passent les déclarations de guerre, les demandes de dossier, les changements d’effectif.
 * Les simples membres d’un groupe **n’ouvrent pas de tickets** au nom du groupe : ils passent par leur leader.

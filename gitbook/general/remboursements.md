@@ -16,7 +16,7 @@ Un remboursement répare une perte causée par **le serveur**, jamais une perte 
 
 ## Comment demander
 
-1. Ouvrez un ticket **Remboursement** rapidement après l’incident.
+1. [Ouvrez un ticket](https://discord.com/channels/1545172746873348199/1545213156534517830) **Remboursement** rapidement après l’incident.
 2. Indiquez précisément ce que vous avez perdu (objet, quantité, véhicule, somme), la date, l’heure et les circonstances.
 3. Joignez une preuve : clip de l’avant et de l’après, capture de l’inventaire. **Sans preuve, la demande ne peut pas aboutir.**
 
