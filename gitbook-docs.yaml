@@ -1,6 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Règlement New Los Santos
+  title: reglement
   structure:
     - type: section
       key: reglement
