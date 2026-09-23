@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Règlement New Los Santos
+  structure:
+    - type: section
+      key: reglement
+      title: Règlement
+      path: reglement
+      children:
+        - type: space
+          key: reglement-fr
+          title: Règlement
+          path: fr
+          default: true
+          content:
+            directory: ./gitbook
+            language: fr
