@@ -12,3 +12,4 @@ Refonte complète du règlement.
 * **Charte du staff** publiée.
 * Ajout des pages Tickets, Créateurs de contenu, Remboursements, Coma et mort RP, Zones safe, Limites du RP, FAQ et tutoriels.
 * Anti-spam : quarantaine de 7 jours décidée par la Direction.
+* Charte du staff : les lots de concours officiels sont la seule exception, avec les remboursements, aux dons du staff.

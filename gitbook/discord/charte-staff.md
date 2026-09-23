@@ -20,4 +20,4 @@ Ce que vous êtes en droit d’attendre de l’équipe de New Los Santos, et ce 
 
 * Le staff joue aussi. En personnage, il est un joueur comme les autres et n’utilise aucun outil d’administration pour son RP.
 * Le staff n’intervient pas dans une scène en cours sauf urgence (triche, bug bloquant). Les litiges se règlent **après** la scène, par ticket.
-* Le staff ne donne jamais d’argent, d’objet ou de véhicule en dehors de la procédure de [remboursement](../general/remboursements.md).
+* Le staff ne donne jamais d’argent, d’objet ou de véhicule en dehors de la procédure de [remboursement](../general/remboursements.md) et des **lots de concours officiels**, annoncés à l’avance dans le salon des annonces avec leurs règles et remis publiquement.
