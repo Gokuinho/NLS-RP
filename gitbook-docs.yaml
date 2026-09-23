@@ -6,6 +6,7 @@ site:
       key: reglement
       title: Règlement
       path: reglement
+      default: true
       children:
         - type: space
           key: reglement-fr
