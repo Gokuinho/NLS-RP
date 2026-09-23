@@ -49,3 +49,22 @@ La politique de confidentialité décrit ce que le code du bot fait réellement 
 formulaires de `tickets.config.ts`, intents de `src/bot/client.ts`). Quand une nouvelle fonction du bot
 collecte une donnée nouvelle, mettre à jour le tableau « Données traitées » **et** la date « en vigueur au »,
 puis annoncer le changement sur le Discord.
+
+## GitBook (règlement du serveur)
+
+Le dossier `gitbook/` contient le règlement publié sur https://newls-rp.gitbook.io/nls-rp,
+synchronisé par **GitBook Git Sync** (fichier `.gitbook.yaml`, racine `./gitbook/`).
+
+* `gitbook/SUMMARY.md` est la table des matières : toute nouvelle page doit y figurer.
+* Le GitBook est rédigé **au vouvoiement** (décision de la Direction du 10 septembre 2026).
+* Toute modification est datée dans `gitbook/changelog.md`.
+
+Vérifier avant de pousser :
+
+```
+node scripts/check-gitbook.mjs
+node --test scripts/check-gitbook.test.mjs
+```
+
+Le script contrôle le sommaire (pages orphelines ou manquantes), les liens relatifs, les blocs
+`{% hint %}` et l’absence de tutoiement.
